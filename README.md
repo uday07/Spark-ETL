@@ -1,2 +1,2 @@
 # Spark-ETL
-A repository with ETL examples for offloading Datawarehouse using PySpark API
+A repository with ETL examples for moving data between disparate source and targets using PySpark API
